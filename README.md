@@ -1,1 +1,1 @@
-Dowbload OpenGl folder first to run all the codes.
+Download OpenGL folder first to run all the codes.
